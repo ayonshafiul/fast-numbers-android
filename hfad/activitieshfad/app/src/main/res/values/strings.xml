@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activitieshfad</string>
+    <string name="send_label">Send</string>
+    <string name="type_message_hint">Type a message</string>
+</resources>

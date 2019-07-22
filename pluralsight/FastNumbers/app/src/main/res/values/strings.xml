@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fast Numbers</string>
+    <string name="start">Start</string>
+    <string name="ready">Ready</string>
+    <string name="reset">Reset</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="game_duration">Game Duration:</string>
+    <string name="game_type">Game Type</string>
+    <string name="greather_than"><![CDATA[Greater Than ( 2 > 1 )]]></string>
+    <string name="less_than"><![CDATA[Less Than ( 1 < 2 )]]></string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="high_scores">High Scores</string>
+    <string name="single_high">Single Player High Score</string>
+    <string name="double_high">Combined High Score</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="help_details">Fast Numbers is a 2 player game where each player is given 2 numbers to choose from.
+        \n\n There are two types of game modes:
+        \n <i>Greater Than:</i> If this game mode is selected then the player must choose the larger number to score points
+        \n <i>Less Than:</i> If this game mode is selected then the player must choose the smaller number to score points
+        \n\n Each wrong selection causes the player to lose 3 points
+        \n\n Game is finished after a duration which can be set from the game settings
+        \n\n There are two types of high scores:
+        \n\n Individual : Only single player highest score
+        \n Combined : Highest score in a single match combining both players scores
+        \n\n
+    </string>
+</resources>

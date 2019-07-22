@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">DemoApp3</string>
+    <string name="name">Name :</string>
+    <string name="name_hint">Type your name here..</string>
+    <string name="age">Age :</string>
+    <string name="age_hint">Type your age here...</string>
+    <string name="ok_label">OK</string>
+    <string name="unchecked">I am not checked!</string>
+    <string name="checked">I am checked!</string>
+    <string name="rock">Rock</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
 </resources>

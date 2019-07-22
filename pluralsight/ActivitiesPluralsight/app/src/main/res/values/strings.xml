@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivitiesPluralsight</string>
+    <string name="note_title">Enter a note title..</string>
+    <string name="note_description">Enter note description...</string>
+</resources>
