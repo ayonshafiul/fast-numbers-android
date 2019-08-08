@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497398482658",
+    "firebase_url": "https://rfaculty-5128a.firebaseio.com",
+    "project_id": "rfaculty-5128a",
+    "storage_bucket": "rfaculty-5128a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497398482658:android:524f20ccf12810b7",
+        "android_client_info": {
+          "package_name": "com.ayon.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497398482658-bu213puivi7thjgdjkkraneh2rebsku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIuLeCE01cGc_LS16vJF5Al2L0dgwQuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497398482658-bu213puivi7thjgdjkkraneh2rebsku1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
